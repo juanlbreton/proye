@@ -1,6 +1,6 @@
-##Este es un Repositorio
+# Este es un Repositorio
 
-#Buen día
+## Buen día
 
 Sigue la configuración.
 
