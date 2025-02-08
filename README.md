@@ -1,6 +1,14 @@
 # Este es un Repositorio
 
-## Buen día
 
-Sigue la configuración.
+## Game project
+
+Para ejecutar el juego
+
+```sh
+cd game
+python3 main.py
+```
+
+
 
